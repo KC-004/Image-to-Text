@@ -17,4 +17,6 @@ Working:
 3. Give the image to the pytesseract.image_to_string() method, it converts the imaage to text(string)
 4. open an file in write mode and write the generated text to the file
 
+Link: https://github.com/KC-004/Image-to-Text
+
 
